@@ -1,0 +1,1 @@
+# Design-pattern-Observer-predefined-from-java-
